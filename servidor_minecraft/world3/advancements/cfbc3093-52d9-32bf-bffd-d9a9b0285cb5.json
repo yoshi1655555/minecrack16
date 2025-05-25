@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2025-05-25 21:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-24 04:13:52 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-24 02:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-25 21:29:02 +0000"
     },
     "done": true
   },
@@ -385,7 +397,8 @@
       "cooked_beef": "2025-05-24 04:41:17 +0000",
       "apple": "2025-05-25 04:42:26 +0000",
       "cooked_cod": "2025-05-24 18:00:52 +0000",
-      "bread": "2025-05-24 03:07:25 +0000"
+      "bread": "2025-05-24 03:07:25 +0000",
+      "carrot": "2025-05-25 21:39:38 +0000"
     },
     "done": false
   },
@@ -1908,6 +1921,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-24 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-25 21:30:33 +0000"
     },
     "done": true
   },
