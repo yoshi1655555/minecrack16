@@ -1395,3 +1395,14 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [20:31:18] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Kyoshi_JP
 [20:31:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [20:31:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kyoshi_JP'/18060, l='world3', x=-71.50, y=96.00, z=152.51] connected. Sending ping
+[20:43:23] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-25_20.43.23-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-25_20.43.23-death-0'
+[20:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP got revenge on nemesis bradumar16
+[20:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 was slain by Kyoshi_JP
+[20:43:23] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-75, y:96, z:151] in the dimension 0
+[20:43:23] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[20:43:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[20:43:58] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-25_20.43.58-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-25_20.43.58-death-0'
+[20:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was slain by bradumar16
+[20:43:58] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-154, y:86, z:160] in the dimension 0
+[20:43:58] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[20:44:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
