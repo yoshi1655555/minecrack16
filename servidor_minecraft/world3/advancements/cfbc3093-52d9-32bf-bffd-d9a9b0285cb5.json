@@ -1548,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-25 21:05:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2025-05-21 03:54:55 +0000"
@@ -1902,6 +1908,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-24 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-05-25 21:09:17 +0000"
     },
     "done": true
   },

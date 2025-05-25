@@ -1204,6 +1204,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-05-25 21:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"

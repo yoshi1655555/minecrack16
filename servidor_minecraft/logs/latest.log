@@ -1500,3 +1500,11 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [21:04:32] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
 [21:04:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
 [21:04:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 got revenge on Fire Dragon
+[21:05:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [Isn't It Iron Pick]
+[21:05:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[21:07:55] [Server thread/INFO] [mca]: Villager death: Hai. Caused by: Zombie. UUID: 541d02f6-11cd-4560-932b-ff3bc6516abc
+[21:09:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[21:09:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[21:19:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
+[21:24:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved too quickly! 9.870425402852291,2.0,-0.017741429796586772
+[21:24:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved too quickly! -7.771210488908707,-5.6800530778049705,-3.826501515988241
