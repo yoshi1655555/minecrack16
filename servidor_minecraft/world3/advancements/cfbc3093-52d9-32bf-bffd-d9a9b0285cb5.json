@@ -622,6 +622,7 @@
       "shrubland": "2025-05-24 17:56:59 +0000",
       "phantasmagoric_inferno": "2025-05-24 23:52:07 +0000",
       "chaparral": "2025-05-21 04:02:00 +0000",
+      "flower_field": "2025-05-25 20:50:21 +0000",
       "fungi_forest": "2025-05-24 04:12:48 +0000",
       "undergarden": "2025-05-24 04:22:57 +0000",
       "brushland": "2025-05-21 04:53:10 +0000"
@@ -781,6 +782,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-05-25 03:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-05-25 20:50:57 +0000"
     },
     "done": true
   },
@@ -1716,15 +1723,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-25 20:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-05-21 03:54:47 +0000",
+      "birch_forest": "2025-05-25 20:55:54 +0000",
       "beaches": "2025-05-25 01:39:02 +0000",
       "mesa": "2025-05-25 01:46:54 +0000",
       "forest_hills": "2025-05-21 04:01:54 +0000",
       "plains": "2025-05-21 03:54:59 +0000",
       "savanna": "2025-05-24 17:59:38 +0000",
-      "ocean": "2025-05-25 01:42:30 +0000"
+      "ocean": "2025-05-25 01:42:30 +0000",
+      "river": "2025-05-25 20:50:52 +0000"
     },
     "done": false
   },
@@ -1842,9 +1857,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-25 20:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-21 04:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-25 20:51:20 +0000"
     },
     "done": true
   },
@@ -2007,6 +2034,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-05-24 04:23:55 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/worktable": {
+    "criteria": {
+      "worktable": "2025-05-25 21:01:40 +0000"
     },
     "done": true
   },
