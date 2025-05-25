@@ -1416,3 +1416,5 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [23:42:28] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Kyoshi_JP
 [23:42:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [23:42:28] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kyoshi_JP'/172352, l='world3', x=-134.20, y=86.00, z=168.61] connected. Sending ping
+[23:51:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP lost connection: Disconnected
+[23:51:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP left the game
