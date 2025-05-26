@@ -1418,3 +1418,7 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [23:42:28] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kyoshi_JP'/172352, l='world3', x=-134.20, y=86.00, z=168.61] connected. Sending ping
 [23:51:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP lost connection: Disconnected
 [23:51:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP left the game
+[23:57:36] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[23:57:36] [Server thread/INFO] [FML]: Loading dimension -1 (world3) (net.minecraft.server.dedicated.DedicatedServer@7bcafa26)
+[23:57:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[23:57:37] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
