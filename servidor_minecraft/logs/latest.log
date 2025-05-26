@@ -18,3 +18,18 @@
 [00:13:54] [Server thread/INFO] [FML]: Loading dimension -1 (world3) (net.minecraft.server.dedicated.DedicatedServer@7bcafa26)
 [00:13:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
 [00:13:54] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[00:17:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:17:55] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[00:17:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:17:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved too quickly! -124.92051079914721,-18.5,230.8397650736786
+[00:18:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[00:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [You'll Regret That]
+[00:21:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:21:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:22:00] [Server thread/INFO] [mca]: Villager death: Alexis. Caused by: inWall. UUID: 8e3fb38b-51f5-49c4-9098-bf445fab0a91
+[00:22:04] [Server thread/INFO] [mca]: Villager death: Arnoldo. Caused by: inWall. UUID: 9b44a4b1-2243-446a-b1c8-6c55b3b0cdc5
+[00:22:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[00:24:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[00:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [They Have a Cave Troll!]
+[00:25:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:25:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
