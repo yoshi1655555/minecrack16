@@ -360,6 +360,12 @@
     },
     "done": true
   },
+  "fossil:fossil/fossil_seed": {
+    "criteria": {
+      "fossil_fern_seed": "2025-05-26 01:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
@@ -1415,6 +1421,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:50 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/iced_meat": {
+    "criteria": {
+      "broken_sword": "2025-05-26 01:53:04 +0000"
     },
     "done": true
   },
