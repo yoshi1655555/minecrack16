@@ -532,6 +532,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-05-26 00:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:50 +0000"
@@ -613,6 +619,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-05-25 00:30:02 +0000",
+      "wither_skeleton": "2025-05-26 00:11:29 +0000",
       "zombie_villager": "2025-05-24 21:09:46 +0000",
       "magma_cube": "2025-05-26 00:00:44 +0000",
       "skeleton": "2025-05-21 04:28:03 +0000",
@@ -856,6 +863,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-26 00:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:50 +0000"
@@ -1041,6 +1054,12 @@
       "has_gravel": "2025-05-21 04:50:15 +0000"
     },
     "done": true
+  },
+  "tombstone:tutorial/death_master": {
+    "criteria": {
+      "has_prevent_burn": "2025-05-26 00:11:44 +0000"
+    },
+    "done": false
   },
   "tombstone:tutorial/root": {
     "criteria": {
@@ -1744,6 +1763,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-26 00:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-21 04:17:54 +0000"
@@ -2065,6 +2090,12 @@
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2025-05-23 02:19:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 00:11:44 +0000"
     },
     "done": true
   },
@@ -2461,6 +2492,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-23 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2025-05-26 00:06:44 +0000"
     },
     "done": true
   },
