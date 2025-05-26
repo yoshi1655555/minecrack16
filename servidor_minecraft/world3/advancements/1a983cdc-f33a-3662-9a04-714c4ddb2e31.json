@@ -790,6 +790,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-05-26 01:27:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2025-05-22 06:04:03 +0000"
@@ -1004,6 +1010,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2025-05-21 03:59:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-05-26 01:27:23 +0000"
     },
     "done": true
   },

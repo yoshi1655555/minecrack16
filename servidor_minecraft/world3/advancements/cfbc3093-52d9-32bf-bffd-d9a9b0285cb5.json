@@ -606,6 +606,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-26 01:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:07:33 +0000"
@@ -1082,6 +1088,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-21 04:14:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-05-26 01:34:27 +0000"
     },
     "done": true
   },
@@ -1591,6 +1603,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-26 01:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-21 04:06:29 +0000"
@@ -1924,6 +1942,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-05-26 01:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-05-21 03:54:55 +0000"
@@ -1957,6 +1981,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:07:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-05-26 01:34:27 +0000"
     },
     "done": true
   },
@@ -2131,6 +2161,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-21 04:46:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-05-26 01:34:23 +0000"
     },
     "done": true
   },

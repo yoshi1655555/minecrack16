@@ -52,3 +52,22 @@
 [01:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [A Curious Crystal...]
 [01:27:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [01:27:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[01:28:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-26_01.28.26-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-26_01.28.26-death-0'
+[01:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was killed by Spider using magic
+[01:28:26] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-296, y:68, z:251] in the dimension 0
+[01:28:26] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[01:28:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[01:28:45] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-26_01.28.45-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-26_01.28.45-death-0'
+[01:28:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 was slain by Zombie
+[01:28:45] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-287, y:68, z:269] in the dimension 0
+[01:28:45] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[01:28:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 got revenge on Zombie
+[01:34:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:34:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:34:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:34:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:34:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:34:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:37:00] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[01:37:00] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
