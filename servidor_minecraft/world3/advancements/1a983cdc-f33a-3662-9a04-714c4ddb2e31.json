@@ -604,6 +604,12 @@
     },
     "done": true
   },
+  "fossil:fossil/tar_fossil": {
+    "criteria": {
+      "tar_drop": "2025-05-26 02:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-21 04:49:59 +0000"
@@ -835,6 +841,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2025-05-25 22:30:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-05-26 02:32:57 +0000"
     },
     "done": true
   },
@@ -1280,9 +1292,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-05-26 02:36:00 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/crystal_flowers": {
     "criteria": {
       "criteria_0": "2025-05-25 21:09:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-05-26 02:36:00 +0000"
     },
     "done": true
   },
@@ -1367,6 +1391,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-05-24 04:09:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-05-26 02:36:10 +0000"
     },
     "done": true
   },
@@ -1697,6 +1727,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-26 02:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-23 03:37:25 +0000"
@@ -1991,6 +2027,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-05-26 02:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-23 03:37:25 +0000"
@@ -2240,6 +2282,12 @@
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2025-05-21 03:52:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-26 02:36:00 +0000"
     },
     "done": true
   },

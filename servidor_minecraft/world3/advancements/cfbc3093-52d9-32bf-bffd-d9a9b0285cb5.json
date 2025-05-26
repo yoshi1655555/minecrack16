@@ -510,6 +510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-05-26 02:36:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-05-21 03:54:47 +0000"
@@ -1105,6 +1111,12 @@
     },
     "done": true
   },
+  "fossil:fossil/figurine": {
+    "criteria": {
+      "broken_sword": "2025-05-26 02:35:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-05-21 03:54:55 +0000"
@@ -1168,6 +1180,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 02:55:48 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/analyzer": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-26 02:37:45 +0000"
     },
     "done": true
   },
@@ -1279,6 +1297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-05-26 02:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-05-21 04:46:43 +0000"
@@ -1318,6 +1342,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2025-05-21 03:54:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-05-26 02:32:35 +0000"
     },
     "done": true
   },
@@ -1912,6 +1942,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2025-05-25 20:51:20 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-05-26 02:32:58 +0000"
     },
     "done": true
   },

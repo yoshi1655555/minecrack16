@@ -96,3 +96,27 @@
 [02:09:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [02:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Knowledge raises the soul]
 [02:11:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:32:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[02:32:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:32:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[02:33:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-26_02.33.04-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-26_02.33.04-death-0'
+[02:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was struck by lightning
+[02:33:04] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-54, y:63, z:702] in the dimension 0
+[02:33:04] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[02:33:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[02:35:11] [Server thread/INFO] [mca]: Villager death: Parker. Caused by: Kyoshi_JP. UUID: ccac1622-9374-4807-9d52-389173277c93
+[02:35:16] [Server thread/INFO] [mca]: Villager death: Zachary. Caused by: Kyoshi_JP. UUID: 9e80fc37-e1b3-47b6-ad4c-6b613072a5ee
+[02:35:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [... Figures.]
+[02:35:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[02:36:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Fossil Fuel]
+[02:36:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[02:36:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[02:37:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [Research Time]
+[02:37:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
