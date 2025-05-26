@@ -46,3 +46,9 @@
 [01:12:06] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Kyoshi_JP
 [01:12:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [01:12:06] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kyoshi_JP'/492328, l='world3', x=-135.99, y=86.00, z=163.30] connected. Sending ping
+[01:21:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:21:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[01:24:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[01:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [A Curious Crystal...]
+[01:27:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[01:27:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
