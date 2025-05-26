@@ -92,3 +92,7 @@
 [02:03:17] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-172, y:10, z:643] in the dimension 0
 [02:03:17] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
 [02:03:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[02:09:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Into a Million Pieces]
+[02:09:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Knowledge raises the soul]
+[02:11:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16

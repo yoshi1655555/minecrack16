@@ -1745,6 +1745,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 02:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-21 03:56:17 +0000"
@@ -2492,6 +2498,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2025-05-24 23:43:01 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/broken_sword": {
+    "criteria": {
+      "broken_helmet": "2025-05-26 02:09:02 +0000"
     },
     "done": true
   },
