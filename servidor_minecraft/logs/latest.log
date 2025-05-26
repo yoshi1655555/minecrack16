@@ -328,3 +328,11 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [03:19:32] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Kyoshi_JP
 [03:19:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [03:19:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kyoshi_JP'/831498, l='world3', x=-171.99, y=65.00, z=165.10] connected. Sending ping
+[03:22:07] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-29, -15] in dimension 0 (overworld) while populating chunk [-28, -15], causing cascading worldgen lag.
+[03:22:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:29:09] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-26_03.29.09-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-26_03.29.09-death-0'
+[03:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 got revenge on nemesis Kyoshi_JP
+[03:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was slain by bradumar16
+[03:29:09] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-248, y:59, z:252] in the dimension 0
+[03:29:09] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[03:29:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
