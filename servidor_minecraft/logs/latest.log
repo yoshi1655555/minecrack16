@@ -375,3 +375,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [03:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP left the game
 [05:06:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
 [05:25:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:21:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved too quickly! -117.94717561214114,44.5,48.15716174199568
+[06:21:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved too quickly! -56.10947728882161,-10.686684444995194,19.276216623935
