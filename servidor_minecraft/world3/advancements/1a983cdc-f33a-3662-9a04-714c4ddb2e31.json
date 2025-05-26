@@ -647,6 +647,7 @@
       "cave_spider": "2025-05-22 06:13:31 +0000",
       "witch": "2025-05-21 04:04:16 +0000",
       "spider": "2025-05-21 04:19:57 +0000",
+      "ghast": "2025-05-26 03:39:53 +0000",
       "creeper": "2025-05-24 03:20:12 +0000",
       "enderman": "2025-05-23 02:40:43 +0000"
     },
@@ -1964,6 +1965,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-05-23 03:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-05-26 03:39:53 +0000"
     },
     "done": true
   },
