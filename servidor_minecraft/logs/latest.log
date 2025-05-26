@@ -71,3 +71,15 @@
 [01:34:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [01:37:00] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
 [01:37:00] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[01:38:24] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[01:38:24] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[01:38:24] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Clash of the Titans]
+[01:41:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[01:43:28] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-26_01.43.28-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-26_01.43.28-death-0'
+[01:43:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 was slain by Kyoshi_JP
+[01:43:28] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-86, y:46, z:641] in the dimension 0
+[01:43:28] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[01:43:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:47:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [Into a Million Pieces]
+[01:47:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
