@@ -247,3 +247,6 @@
 [02:06:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [02:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Local Brewery]
 [02:07:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:21:32] [Server thread/INFO] [Scaling Health]: Blight Blue Slime has died
+[02:27:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[02:28:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
