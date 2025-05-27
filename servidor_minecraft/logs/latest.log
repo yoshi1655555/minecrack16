@@ -226,3 +226,15 @@
 [01:04:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [01:04:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [01:37:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[01:41:51] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[01:41:51] [Server thread/INFO] [FML]: Loading dimension -1 (world3) (net.minecraft.server.dedicated.DedicatedServer@452de491)
+[01:41:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:41:52] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[01:44:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:44:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[01:44:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:44:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved too quickly! -124.92172298176634,-18.5,230.79204640106735
+[01:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Enshrined]
+[01:45:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[01:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [A Forgotten Relic]
+[01:46:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16

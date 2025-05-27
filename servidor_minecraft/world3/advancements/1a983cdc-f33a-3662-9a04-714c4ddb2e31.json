@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_lightning_melee": "2025-05-27 01:46:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-05-23 04:13:33 +0000"
@@ -1860,6 +1866,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_lightning_melee": "2025-05-27 01:46:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-05-23 04:16:05 +0000"
@@ -2271,6 +2283,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-05-23 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-05-27 01:45:34 +0000"
     },
     "done": true
   },
