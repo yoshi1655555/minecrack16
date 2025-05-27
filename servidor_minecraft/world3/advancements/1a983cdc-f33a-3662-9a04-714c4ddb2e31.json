@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 00:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
@@ -609,6 +615,12 @@
       "tar_drop": "2025-05-26 02:36:13 +0000"
     },
     "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-05-27 00:50:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
@@ -1659,6 +1671,12 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2025-05-21 03:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 00:49:07 +0000"
     },
     "done": true
   },
