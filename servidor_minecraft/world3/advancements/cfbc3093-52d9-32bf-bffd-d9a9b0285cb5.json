@@ -1955,6 +1955,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-27 04:25:08 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/throwables": {
     "criteria": {
       "criteria_0": "2025-05-26 02:32:58 +0000"

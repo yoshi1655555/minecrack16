@@ -302,3 +302,7 @@
 [04:00:35] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-77, y:96, z:154] in the dimension 0
 [04:00:35] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
 [04:00:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[04:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [Take Aim]
+[04:25:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:31:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP lost connection: Disconnected
+[04:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP left the game
