@@ -292,3 +292,13 @@
 [03:45:57] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-75, y:96, z:149] in the dimension 0
 [03:45:58] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
 [03:46:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[03:59:50] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-27_03.59.50-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-27_03.59.50-death-0'
+[03:59:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was blown up by bradumar16
+[03:59:50] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-76, y:96, z:150] in the dimension 0
+[03:59:50] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[03:59:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[04:00:35] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-27_04.00.35-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-27_04.00.35-death-0'
+[04:00:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was blown up by bradumar16
+[04:00:35] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-77, y:96, z:154] in the dimension 0
+[04:00:35] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[04:00:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
