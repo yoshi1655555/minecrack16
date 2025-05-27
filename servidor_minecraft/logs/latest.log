@@ -223,3 +223,5 @@
 [00:50:33] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
 [00:51:03] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [51, -38] in dimension 0 (overworld) while populating chunk [52, -37], causing cascading worldgen lag.
 [00:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:04:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[01:04:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
