@@ -269,3 +269,5 @@
 [02:58:27] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-138, y:70, z:233] in the dimension 0
 [02:58:27] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
 [02:58:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[03:21:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Herc was on a Roll!]
+[03:21:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
