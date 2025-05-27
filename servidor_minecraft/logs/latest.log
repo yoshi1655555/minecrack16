@@ -271,3 +271,14 @@
 [02:58:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
 [03:21:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Herc was on a Roll!]
 [03:21:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:13] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-27_03.37.13-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-27_03.37.13-death-0'
+[03:37:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was blown up by bradumar16
+[03:37:13] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-136, y:86, z:143] in the dimension 0
+[03:37:13] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[03:37:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[03:38:36] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecrack16/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-27_03.38.36-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-27_03.38.36-death-0'
+[03:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was blown up by bradumar16
+[03:38:36] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-229, y:68, z:185] in the dimension 0
+[03:38:36] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[03:38:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[03:40:30] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player Kyoshi_JP)
