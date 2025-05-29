@@ -477,6 +477,7 @@
       "flower_field": "2025-05-21 04:29:07 +0000",
       "wetland": "2025-05-22 07:28:49 +0000",
       "maple_woods": "2025-05-22 06:51:31 +0000",
+      "coral_reef": "2025-05-29 00:31:38 +0000",
       "moor": "2025-05-22 07:32:55 +0000",
       "bog": "2025-05-22 07:23:48 +0000",
       "coniferous_forest": "2025-05-22 06:33:10 +0000",
@@ -486,6 +487,7 @@
       "visceral_heap": "2025-05-25 23:59:00 +0000",
       "seasonal_forest": "2025-05-22 06:51:23 +0000",
       "dead_forest": "2025-05-22 07:31:51 +0000",
+      "kelp_forest": "2025-05-29 00:34:30 +0000",
       "glacier": "2025-05-22 06:38:52 +0000",
       "meadow": "2025-05-22 06:51:36 +0000",
       "lush_swamp": "2025-05-22 07:27:28 +0000",
@@ -1114,6 +1116,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:11:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-29 00:32:39 +0000"
     },
     "done": true
   },
@@ -2506,6 +2514,12 @@
   "ebwizardry:handbook/spells": {
     "criteria": {
       "criteria_0": "2025-05-24 04:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2025-05-29 00:35:22 +0000"
     },
     "done": true
   },
