@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-29 01:22:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:50 +0000"
@@ -493,6 +499,7 @@
       "mangrove": "2025-05-29 01:06:23 +0000",
       "redwood_forest": "2025-05-22 21:42:46 +0000",
       "visceral_heap": "2025-05-25 23:59:00 +0000",
+      "cherry_blossom_grove": "2025-05-29 01:21:57 +0000",
       "seasonal_forest": "2025-05-22 06:51:23 +0000",
       "dead_forest": "2025-05-22 07:31:51 +0000",
       "kelp_forest": "2025-05-29 00:34:30 +0000",
@@ -511,6 +518,12 @@
       "ominous_woods": "2025-05-22 07:33:25 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-29 01:13:03 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
@@ -1407,9 +1420,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-05-29 01:13:03 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/break_fossil": {
     "criteria": {
       "biofossil": "2025-05-25 03:00:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-05-29 01:13:03 +0000"
     },
     "done": true
   },
