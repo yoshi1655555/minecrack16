@@ -2820,3 +2820,6 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [02:15:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [02:15:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [02:53:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[06:16:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 lost connection: Disconnected
+[06:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 left the game
+[06:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
