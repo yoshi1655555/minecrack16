@@ -476,6 +476,7 @@
       "steppe": "2025-05-22 21:45:16 +0000",
       "alps_foothills": "2025-05-22 21:41:06 +0000",
       "phantasmagoric_inferno": "2025-05-24 23:52:14 +0000",
+      "bayou": "2025-05-29 01:06:15 +0000",
       "highland": "2025-05-22 07:24:50 +0000",
       "quagmire": "2025-05-22 07:28:01 +0000",
       "marsh": "2025-05-22 06:44:47 +0000",
@@ -489,6 +490,7 @@
       "coniferous_forest": "2025-05-22 06:33:10 +0000",
       "shield": "2025-05-22 07:19:32 +0000",
       "alps": "2025-05-22 21:40:42 +0000",
+      "mangrove": "2025-05-29 01:06:23 +0000",
       "redwood_forest": "2025-05-22 21:42:46 +0000",
       "visceral_heap": "2025-05-25 23:59:00 +0000",
       "seasonal_forest": "2025-05-22 06:51:23 +0000",
@@ -679,6 +681,7 @@
       "cave_spider": "2025-05-22 06:13:31 +0000",
       "silverfish": "2025-05-27 02:27:09 +0000",
       "witch": "2025-05-21 04:04:16 +0000",
+      "guardian": "2025-05-29 01:02:19 +0000",
       "spider": "2025-05-21 04:19:57 +0000",
       "ghast": "2025-05-26 03:39:53 +0000",
       "creeper": "2025-05-24 03:20:12 +0000",
@@ -1137,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-29 01:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-05-21 04:04:17 +0000"
@@ -1410,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-29 01:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2025-05-23 04:02:17 +0000"
@@ -1545,6 +1560,12 @@
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-21 04:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-29 01:01:18 +0000"
     },
     "done": true
   },
