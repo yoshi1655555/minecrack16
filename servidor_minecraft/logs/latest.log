@@ -2817,3 +2817,5 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [01:24:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [01:24:52] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-24, -30] in dimension 0 (overworld) while populating chunk [-23, -29], causing cascading worldgen lag.
 [01:24:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:15:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:15:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16

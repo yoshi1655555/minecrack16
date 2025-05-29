@@ -252,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-05-29 02:15:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-21 04:46:04 +0000"
@@ -381,6 +387,12 @@
   "fossil:fossil/fossil_seed": {
     "criteria": {
       "fossil_fern_seed": "2025-05-26 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-05-29 02:15:09 +0000"
     },
     "done": true
   },
