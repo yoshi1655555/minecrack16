@@ -384,6 +384,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-29 00:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-21 04:49:59 +0000"
@@ -1002,6 +1008,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-23 06:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-29 00:58:14 +0000"
     },
     "done": true
   },
@@ -2229,6 +2241,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "healing": "2025-05-29 00:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:11:15 +0000"
@@ -2592,6 +2610,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-23 06:37:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-29 00:55:15 +0000"
     },
     "done": true
   },
