@@ -2455,6 +2455,12 @@
     },
     "done": true
   },
+  "fossil:fossil/scarab": {
+    "criteria": {
+      "broken_sword": "2025-05-30 05:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-05-23 03:09:56 +0000"
